@@ -1,4 +1,8 @@
-### EX:7 IMPLEMENTATION OF  SYNCHRONOUS-UP-COUNTER
+### EX:7 IMPLEMENTATION OF 
+ SYNCHRONOUS-UP-COUNTER
+
+Developed by:JOTHIMANI P
+RegisterNumber: 24900871
 
 **AIM:**
 
@@ -52,8 +56,6 @@ endmodule
 
 ```
 
-Developed by:JOTHIMANI P
-RegisterNumber: 24900871
 
 
 
